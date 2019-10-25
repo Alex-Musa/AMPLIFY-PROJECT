@@ -1,5 +1,5 @@
 {
-  "name": "amplify",
+  "name": "amplify-project",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/17landonjuan/AMPLIFY.git"
+    "url": "git+https://github.com/Alex-Musa/AMPLIFY-PROJECT.git"
   },
   "author": "Alex Musa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/17landonjuan/AMPLIFY/issues"
+    "url": "https://github.com/Alex-Musa/AMPLIFY-PROJECT/issues"
   },
-  "homepage": "https://github.com/17landonjuan/AMPLIFY#readme"
+  "homepage": "https://github.com/Alex-Musa/AMPLIFY-PROJECT#readme"
 }
