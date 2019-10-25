@@ -1,7 +1,7 @@
 # AMPLIFY-PROJECT
 
 
-- Amplify - Business Amplified - 
+- Amplify-PROJECT - Business Amplified - 
 
 - Amplify is designed to be marketed towards small business owners or persons in need of a web presence. It is a fact that in todays world that to be profitable and achieve any growth in today's market, some sort of web presence is imperative. Especially for a small business to try and stay afloat in a veritable sea of sharks in the form corporations and an overflooded market full of competing enterprise. The service we provide with Amplify is a vital one for any entrepreneur seeking a drastically simpler method of marketing and increasing overall total business through this unique and custom tailored web application.  
 
